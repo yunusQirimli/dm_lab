@@ -1,0 +1,27 @@
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\bin\Debug\lab4_komi.exe.config
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\bin\Debug\lab4_komi.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\bin\Debug\lab4_komi.pdb
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\lab4_komi.csprojResolveAssemblyReference.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\MainWindow.baml
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\MainWindow.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\App.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\lab4_komi_MarkupCompile.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\lab4_komi.g.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\lab4_komi.Properties.Resources.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\lab4_komi.csproj.GenerateResource.Cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\lab4_komi.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab4_komi\lab4_komi\obj\Debug\lab4_komi.pdb
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\bin\Debug\lab4_komi.exe.config
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\bin\Debug\lab4_komi.exe
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\bin\Debug\lab4_komi.pdb
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\MainWindow.baml
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\MainWindow.g.cs
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\App.g.cs
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi_MarkupCompile.cache
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi.g.resources
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi.Properties.Resources.resources
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi.exe
+C:\Users\Ismail\Desktop\Кривий\lab4_komi\lab4_komi\obj\Debug\lab4_komi.pdb

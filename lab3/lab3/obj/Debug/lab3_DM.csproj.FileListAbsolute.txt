@@ -1,0 +1,40 @@
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\bin\Debug\lab3_DM.exe.config
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\bin\Debug\lab3_DM.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\bin\Debug\lab3_DM.pdb
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\lab3_DM.csprojResolveAssemblyReference.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\MainWindow.baml
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\MainWindow.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\App.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\lab3_DM_MarkupCompile.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\lab3_DM.g.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\lab3_DM.Properties.Resources.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\lab3_DM.csproj.GenerateResource.Cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\lab3_DM.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab3_DM\lab3_DM\obj\Debug\lab3_DM.pdb
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\bin\Debug\lab3_DM.exe.config
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.exe
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.pdb
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\bin\Debug\lab3_DM.exe
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\bin\Debug\lab3_DM.pdb
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.csprojResolveAssemblyReference.cache
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\MainWindow.baml
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\MainWindow.g.cs
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\App.g.cs
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM_MarkupCompile.cache
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.g.resources
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.Properties.Resources.resources
+D:\4 КУРС\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\bin\Debug\lab3_DM.exe.config
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\bin\Debug\lab3_DM.exe
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\bin\Debug\lab3_DM.pdb
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\MainWindow.baml
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\MainWindow.g.cs
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\App.g.cs
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM_MarkupCompile.cache
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.g.resources
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.Properties.Resources.resources
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.exe
+C:\Users\Ismail\Desktop\Кривий\lab3_DM\lab3_DM\obj\Debug\lab3_DM.pdb

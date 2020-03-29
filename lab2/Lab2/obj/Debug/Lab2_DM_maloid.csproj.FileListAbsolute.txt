@@ -1,0 +1,40 @@
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.exe.config
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.pdb
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.csprojResolveAssemblyReference.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\MainWindow.baml
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\MainWindow.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\App.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid_MarkupCompile.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.g.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.Properties.Resources.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.csproj.GenerateResource.Cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\Lab2_DM_maloid\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.pdb
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.exe.config
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.exe
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.pdb
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.exe
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.pdb
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.csprojResolveAssemblyReference.cache
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\MainWindow.baml
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\MainWindow.g.cs
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\App.g.cs
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid_MarkupCompile.cache
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.g.resources
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.Properties.Resources.resources
+D:\4 КУРС\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.exe.config
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.exe
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\bin\Debug\Lab2_DM_maloid.pdb
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\MainWindow.baml
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\MainWindow.g.cs
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\App.g.cs
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid_MarkupCompile.cache
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.g.resources
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.Properties.Resources.resources
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.exe
+C:\Users\Ismail\Desktop\Кривий\Lab2_DM\Lab2_DM_maloid\obj\Debug\Lab2_DM_maloid.pdb

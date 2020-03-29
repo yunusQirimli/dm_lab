@@ -1,0 +1,40 @@
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.exe.config
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.csprojResolveAssemblyReference.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\MainWindow.baml
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\MainWindow.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\App.g.cs
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf_MarkupCompile.cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.g.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.Properties.Resources.resources
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.csproj.GenerateResource.Cache
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.pdb
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.exe
+c:\users\cristina\Documents\Visual Studio 2012\Projects\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.pdb
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.exe.config
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.exe
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.pdb
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.exe
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.pdb
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.csprojResolveAssemblyReference.cache
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\MainWindow.baml
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\MainWindow.g.cs
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\App.g.cs
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf_MarkupCompile.cache
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.g.resources
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.Properties.Resources.resources
+D:\4 КУРС\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.exe.config
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.exe
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\bin\Debug\lab5_isomorf.pdb
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.csprojResolveAssemblyReference.cache
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\MainWindow.baml
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\MainWindow.g.cs
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\App.g.cs
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf_MarkupCompile.cache
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.g.resources
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.Properties.Resources.resources
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.csproj.GenerateResource.Cache
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.csproj.CoreCompileInputs.cache
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.exe
+C:\Users\Ismail\Desktop\Кривий\lab5_isomorf\lab5_isomorf\obj\Debug\lab5_isomorf.pdb
